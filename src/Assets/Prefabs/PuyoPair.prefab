@@ -47,8 +47,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puyos:
-  - {fileID: 2964386777583850946}
   - {fileID: 4599279824360326352}
+  - {fileID: 2964386777583850946}
 --- !u!1001 &570665492102377624
 PrefabInstance:
   m_ObjectHideFlags: 0
